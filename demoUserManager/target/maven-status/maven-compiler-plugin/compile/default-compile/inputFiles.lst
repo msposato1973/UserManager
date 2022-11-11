@@ -1,0 +1,13 @@
+/Users/massimo.sposato/Documents/STS-WS/demoUserManager/src/main/java/com/demo/exception/ResourceNotFoundException.java
+/Users/massimo.sposato/Documents/STS-WS/demoUserManager/src/main/java/com/demo/service/UserService.java
+/Users/massimo.sposato/Documents/STS-WS/demoUserManager/src/main/java/com/demo/repository/UserRepository.java
+/Users/massimo.sposato/Documents/STS-WS/demoUserManager/src/main/java/com/demo/entity/User.java
+/Users/massimo.sposato/Documents/STS-WS/demoUserManager/src/main/java/com/demo/web/APIResponse.java
+/Users/massimo.sposato/Documents/STS-WS/demoUserManager/src/main/java/com/demo/DemoUserManagerApplication.java
+/Users/massimo.sposato/Documents/STS-WS/demoUserManager/src/main/java/com/demo/web/ResponseDTO.java
+/Users/massimo.sposato/Documents/STS-WS/demoUserManager/src/main/java/com/demo/exception/GlobalExceptionHandler.java
+/Users/massimo.sposato/Documents/STS-WS/demoUserManager/src/main/java/com/demo/dto/UseDataDTO.java
+/Users/massimo.sposato/Documents/STS-WS/demoUserManager/src/main/java/com/demo/web/AppConstants.java
+/Users/massimo.sposato/Documents/STS-WS/demoUserManager/src/main/java/com/demo/web/DemoController.java
+/Users/massimo.sposato/Documents/STS-WS/demoUserManager/src/main/java/com/demo/service/UserServiceImpl.java
+/Users/massimo.sposato/Documents/STS-WS/demoUserManager/src/main/java/com/demo/exception/ErrorDetails.java
